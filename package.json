@@ -1,0 +1,8 @@
+{
+  "name": "prep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/anurag4DSB/prep",
+  "author": "anurag4DSB <anurag.mittal@scality.com>",
+  "license": "MIT"
+}
